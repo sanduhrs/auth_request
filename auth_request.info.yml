@@ -1,0 +1,5 @@
+name: 'Auth Request'
+type: module
+description: 'Auth Request'
+version: VERSION
+core: 8.x
